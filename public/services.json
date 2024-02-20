@@ -1,0 +1,83 @@
+[
+    {
+      "image": "https://i.ibb.co/c2mmf9j/frame-000-delay-0-03s.jpg",
+      "name": "Elegance Bliss Salwar Kameez",
+      "type": "Anarkali",
+      "price": "$89.99",
+      "rating": 4.8,
+      "details": "Discover the epitome of elegance with our Elegance Bliss Salwar Kameez. This Anarkali suit features intricate embroidery and a flowing silhouette, perfect for special occasions."
+    },
+    {
+      "image": "https://i.ibb.co/Sc2PjHx/ezgif-1-0e4592a32d.jpg",
+      "name": "Royal Velvet Salwar Suit",
+      "type": "Straight Cut",
+      "price": "$74.99",
+      "rating": 4.5,
+      "details": "Wrap yourself in luxury with our Royal Velvet Salwar Suit. The straight cut design and rich velvet fabric make it an ideal choice for a regal and sophisticated look."
+    },
+    {
+      "image": "https://i.ibb.co/WVyBK3K/ezgif-1-1d65a481bf.jpg",
+      "name": "Graceful Georgette Ensemble",
+      "type": "Palazzo Suit",
+      "price": "$99.99",
+      "rating": 4.7,
+      "details": "Achieve a contemporary yet graceful look with our Graceful Georgette Ensemble. This Palazzo Suit combines comfort with style, making it perfect for both casual and formal events."
+    },
+    {
+      "image": "https://i.ibb.co/BqRZ53W/ezgif-1-ddc6fe43ae.jpg",
+      "name": "Floral Fiesta Anarkali Set",
+      "type": "Anarkali",
+      "price": "$69.99",
+      "rating": 4.6,
+      "details": "Join the floral fiesta with our stunning Floral Fiesta Anarkali Set. The vibrant colors and floral patterns create a lively and refreshing ensemble for any celebration."
+    },
+    {
+      "image": "https://i.ibb.co/qr413w7/frame-017-delay-0-04s.jpg",
+      "name": "Classic Cotton Salwar Kameez",
+      "type": "Churidar Suit",
+      "price": "$59.99",
+      "rating": 4.4,
+      "details": "Experience timeless style with our Classic Cotton Salwar Kameez. The Churidar Suit design ensures a perfect fit, while the breathable cotton fabric keeps you comfortable all day."
+    },
+    {
+      "image": "https://i.ibb.co/nrhz6QZ/ezgif-1-bbb9935e6e.jpg",
+      "name": "Regal Silk Anarkali",
+      "type": "Anarkali",
+      "price": "$109.99",
+      "rating": 4.9,
+      "details": "Dress like royalty in our Regal Silk Anarkali. The luxurious silk fabric and intricate embroidery make it a statement piece for grand occasions, ensuring you stand out with elegance."
+    },
+    {
+      "image": "https://i.ibb.co/gmQqnXV/ezgif-1-3540b0d77c.jpg",
+      "name": "Chic Casual Palazzo Set",
+      "type": "Palazzo Suit",
+      "price": "$49.99",
+      "rating": 4.2,
+      "details": "Embrace casual chic with our Chic Casual Palazzo Set. The comfortable yet stylish design makes it perfect for a day out or a relaxed evening with friends."
+    },
+    {
+      "image": "https://i.ibb.co/qy7zyg2/ezgif-1-02e84e33a1.jpg",
+      "name": "Modern Fusion Dhoti Suit",
+      "type": "Dhoti Suit",
+      "price": "$79.99",
+      "rating": 4.7,
+      "details": "Make a statement in our Modern Fusion Dhoti Suit. The combination of traditional elements with a modern twist creates a unique and eye-catching ensemble for contemporary fashion enthusiasts."
+    },
+    {
+      "image": "https://i.ibb.co/1MhGF4f/ezgif-1-46a8f85c44.jpg",
+      "name": "Serenity White Salwar Suit",
+      "type": "Straight Cut",
+      "price": "$64.99",
+      "rating": 4.5,
+      "details": "Radiate serenity in our Serenity White Salwar Suit. The clean lines of the straight cut and the pristine white color make it an elegant choice for any occasion."
+    },
+    {
+      "image": "https://i.ibb.co/bgL1HFv/ezgif-1-f93776d316.jpg",
+      "name": "Artistic Embroidery Palazzo Set",
+      "type": "Palazzo Suit",
+      "price": "$89.99",
+      "rating": 4.6,
+      "details": "Express your artistic flair with our Artistic Embroidery Palazzo Set. The intricate embroidery details add a touch of sophistication to this comfortable and stylish ensemble."
+    }
+  ]
+  
